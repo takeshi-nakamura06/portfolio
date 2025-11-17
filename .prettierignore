@@ -1,0 +1,31 @@
+# Ignore artifacts:
+build
+.next
+node_modules
+dist
+
+# Ignore TypeScript build output:
+*.d.ts
+
+# Ignore environment variables:
+.env
+.env.*.local
+
+# Ignore configuration files that don't need formatting:
+.prettierrc
+.eslintrc
+*.config.js
+*.config.cjs
+*.config.mjs
+*.config.ts
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Ignore generated files:
+coverage
+public
+
+# Specific files (add more as needed):
+logs
+*.log
