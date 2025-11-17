@@ -20,16 +20,16 @@ export interface IProjectData {
 
 export const DATA = {
   HEADER: {
-    NAME: "Utkarsh Singhal",
-    AGE: "20",
+    NAME: "Takeshi Nakamura",
+    AGE: "29",
     PRONOUN: "he/him",
     HEADLINE:
       "Passionate about building high-performance and scalable web applications.",
     RESUME:
-      "https://drive.google.com/file/d/1piWpArbdbjt4PKF4gZlR0nkD09au_8fE/view",
-    EMAIL: "mailto:singhalutkarsh26@gmail.com",
-    GITHUB: "https://github.com/Utkarsh-Singhal-26",
-    LINKEDIN: "https://www.linkedin.com/in/singhalutkarsh26",
+      "",
+    EMAIL: "mailto:takeshi.nakamura@myself.fr.nf",
+    GITHUB: "https://github.com/takeshi-nakamura06",
+    LINKEDIN: "https://linkedin.com/in/takeshi-nakamura-633168351",
   },
 
   ABOUT_ME: {
@@ -70,30 +70,30 @@ export const DATA = {
       ],
     },
     "Vivekananda Institute of Professional Studies - Technical Campus (VIPS-TC)":
-      {
-        WEBSITE: "https://vips.edu/",
-        POSITION: "Software Developer Intern",
-        LOCATION: "Hybrid - Delhi, India",
-        DURATION: "Nov, 2023 - Jun, 2025",
-        DESCRIPTION: [
-          "Assisted in the development of full-stack applications to support academic initiatives.",
-          "Implemented cloud-based solutions using Google Cloud Platform (GCP) services.",
-          "Participated in code reviews and contributed to the optimization of existing codebases.",
-        ],
-        TECH_STACK: [
-          "React.js",
-          "Tailwind CSS",
-          "Material UI",
-          "Firebase",
-          "GCP",
-          "Vercel",
-          "Git & Github",
-        ],
-      },
+    {
+      WEBSITE: "https://vips.edu/",
+      POSITION: "Software Developer Intern",
+      LOCATION: "Remote - Delhi, India",
+      DURATION: "Nov, 2023 - Jun, 2025",
+      DESCRIPTION: [
+        "Assisted in the development of full-stack applications to support academic initiatives.",
+        "Implemented cloud-based solutions using Google Cloud Platform (GCP) services.",
+        "Participated in code reviews and contributed to the optimization of existing codebases.",
+      ],
+      TECH_STACK: [
+        "React.js",
+        "Tailwind CSS",
+        "Material UI",
+        "Firebase",
+        "GCP",
+        "Vercel",
+        "Git & Github",
+      ],
+    },
     Requestly: {
       WEBSITE: "https://requestly.com/",
       POSITION: "Product Engineer Intern",
-      LOCATION: "Hybrid - Delhi, India",
+      LOCATION: "Remote - Delhi, India",
       DURATION: "Aug, 2024 - Oct, 2024",
       DESCRIPTION: [
         "Researched and analyzed various API testing platforms (Kubesense, LevoAI, Wallarm, Traceable, Safe Security, Keploy) to evaluate features, security, and integration capabilities.",
