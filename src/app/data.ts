@@ -34,7 +34,7 @@ export const DATA = {
 
   ABOUT_ME: {
     INTRO:
-      "Hey! I'm a full-stack developer who loves building efficient, scalable, and intuitive applications. I thrive on solving complex problems, optimizing performance, and creating seamless user experiences.",
+      "Hey! I'm a Senior Full Stack Engineer developer who loves building efficient, scalable, and intuitive applications. I thrive on solving complex problems, optimizing performance, and creating seamless user experiences.",
     EXPERTISE:
       "My expertise lies in Next.js, TypeScript, Node.js, and Cloud technologies, and I enjoy working across the stack to bring ideas to life.",
   },
@@ -76,7 +76,7 @@ export const DATA = {
       LOCATION: "Remote - Delhi, India",
       DURATION: "Nov, 2023 - Jun, 2025",
       DESCRIPTION: [
-        "Assisted in the development of full-stack applications to support academic initiatives.",
+        "Assisted in the development of Senior Full Stack Engineer applications to support academic initiatives.",
         "Implemented cloud-based solutions using Google Cloud Platform (GCP) services.",
         "Participated in code reviews and contributed to the optimization of existing codebases.",
       ],
