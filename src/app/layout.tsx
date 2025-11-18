@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   keywords: [
     "Takeshi Nakamura",
     "Software Developer",
-    "Full-Stack Developer",
+    "Senior Full Stack Engineer Developer",
     "React",
     "Next.js",
     "TypeScript",
